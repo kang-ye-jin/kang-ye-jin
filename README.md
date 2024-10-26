@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=FFd2d7&text=YEJIN's%20GitHub&textBg=false&reversal=false&fontColor=FF6675)
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-ye-jin&show_icons=true&title_color=FF6675&icon_color=FF6675&text_color=FFd2d7&bg_color=ffffff)
-
 ### 🎀 Projects
 
 #### Data Analysis
@@ -18,3 +15,5 @@
 - 국내 여행 블로그 Travelog / 23.10.02 - 23.12.20
 
 - DKTechin 사원 복지를 위한 복지몰 DmarKeT / 23.12.27 - 24.02.16
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-ye-jin&show_icons=true&title_color=FF6675&icon_color=FF6675&text_color=FFd2d7&bg_color=ffffff)
