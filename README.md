@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/4e0dd3e7-0a55-4659-9216-840dccd1aaf7" alt="project" width="150" height="150" style="vertical-align: middle;"/>
 
-## <img src="https://github.com/user-attachments/assets/7bcf1319-2c96-41b0-b337-db19c45bbbdf" alt="project" width="30" height="30" style="vertical-align: middle;"/> Projects
+## <img src="https://github.com/user-attachments/assets/7bcf1319-2c96-41b0-b337-db19c45bbbdf" alt="project" width="20" height="20" style="vertical-align: middle;"/> Projects
 
 
 #### Data Analysis
