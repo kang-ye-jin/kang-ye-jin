@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=FFd2d7&text=YEJIN's%20GitHub&textBg=false&reversal=false&fontColor=FF6675)
 
-## <img src="https://github.com/user-attachments/assets/5fcab21c-b438-4c07-a9b3-0a8952062f4d" alt="project" width="50" height="50"/> Projects
+## <img src="https://github.com/user-attachments/assets/5fcab21c-b438-4c07-a9b3-0a8952062f4d" alt="project" width="50" height="50" style="margin-top: 10px;"/> Projects
 
 
 #### Data Analysis
