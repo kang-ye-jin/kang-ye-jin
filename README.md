@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=FFd2d7&text=YEJIN's%20GitHub&textBg=false&reversal=false&fontColor=FF6675)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/4e0dd3e7-0a55-4659-9216-840dccd1aaf7" alt="project" width="200" height="200" style="vertical-align: middle;"/>
+</div>
 
-## <img src="https://github.com/user-attachments/assets/4e0dd3e7-0a55-4659-9216-840dccd1aaf7" alt="project" width="50" height="50" style="vertical-align: middle;"/> Projects
+## <img src="https://github.com/user-attachments/assets/7bcf1319-2c96-41b0-b337-db19c45bbbdf" alt="project" width="30" height="30" style="vertical-align: middle;"/> Projects
 
 
 #### Data Analysis
