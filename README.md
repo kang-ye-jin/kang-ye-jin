@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=FFd2d7&text=YEJIN's%20GitHub&textBg=false&reversal=false&fontColor=FF6675)
 
-## 🎀 Projects 🎀
+## <img src="https://github.com/user-attachments/assets/5fcab21c-b438-4c07-a9b3-0a8952062f4d" alt="project" width="50" height="50" style="margin-bottom: -10px;"/> Projects
+
 
 #### Data Analysis
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
