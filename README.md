@@ -22,5 +22,3 @@
 - DKTechin 사원 복지를 위한 복지몰 DmarKeT / 23.12.27 - 24.02.16
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-ye-jin&show_icons=true&title_color=FF6675&icon_color=FF6675&text_color=FFd2d7&bg_color=ffffff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang-ye-jin&layout=compact)](https://github.com/kang-ye-jin/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yejin331)](https://solved.ac/yejin331/)
