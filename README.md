@@ -2,6 +2,10 @@
   <img src="https://github.com/user-attachments/assets/4e0dd3e7-0a55-4659-9216-840dccd1aaf7" alt="project" width="150" height="150"/>
 </p>
 
+## <img src="https://github.com/user-attachments/assets/f3bef74f-150e-43e1-a30a-c3f54f5a2bd8" alt="project" width="35" height="35"/> About Me
+- 가천대학교 컴퓨터공학과 재학 
+- 카카오엔터프라이즈 SW아카데미 3기
+
 ## <img src="https://github.com/user-attachments/assets/7bcf1319-2c96-41b0-b337-db19c45bbbdf" alt="project" width="20" height="20" style="vertical-align: middle;"/> Projects
 
 
