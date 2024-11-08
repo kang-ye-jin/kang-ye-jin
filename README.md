@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkang-ye-jin%2Fhit-counter&count_bg=%23FFC3EA&title_bg=%23FF65C0&icon=waze.svg&icon_color=%23FFC1F5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <img src="https://github.com/user-attachments/assets/4e0dd3e7-0a55-4659-9216-840dccd1aaf7" alt="project" width="150" height="150" style="vertical-align: middle;"/>
 
 ## <img src="https://github.com/user-attachments/assets/7bcf1319-2c96-41b0-b337-db19c45bbbdf" alt="project" width="30" height="30" style="vertical-align: middle;"/> Projects
@@ -18,3 +20,5 @@
 - DKTechin 사원 복지를 위한 복지몰 DmarKeT / 23.12.27 - 24.02.16
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-ye-jin&show_icons=true&title_color=FF6675&icon_color=FF6675&text_color=FFd2d7&bg_color=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang-ye-jin&layout=compact)](https://github.com/kang-ye-jin/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yejin331)](https://solved.ac/yejin331/)
