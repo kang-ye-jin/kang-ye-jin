@@ -1,8 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkang-ye-jin%2Fhit-counter&count_bg=%23FFC3EA&title_bg=%23FF65C0&icon=waze.svg&icon_color=%23FFC1F5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://github.com/user-attachments/assets/4e0dd3e7-0a55-4659-9216-840dccd1aaf7" alt="project" width="150" height="150" style="vertical-align: middle;"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e0dd3e7-0a55-4659-9216-840dccd1aaf7" alt="project" width="150" height="150"/>
+</p>
 
-## <img src="https://github.com/user-attachments/assets/7bcf1319-2c96-41b0-b337-db19c45bbbdf" alt="project" width="30" height="30" style="vertical-align: middle;"/> Projects
+## <img src="https://github.com/user-attachments/assets/7bcf1319-2c96-41b0-b337-db19c45bbbdf" alt="project" width="20" height="20" style="vertical-align: middle;"/> Projects
 
 
 #### Data Analysis
