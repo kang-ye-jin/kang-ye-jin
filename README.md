@@ -31,3 +31,6 @@
 - 외국인 대상 한국어 학습 및 모임 서비스, 코틀린 마이그레이션 / 23.09.23 - 23.11.05
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-ye-jin&show_icons=true&title_color=FF6675&icon_color=FF6675&text_color=FFd2d7&bg_color=ffffff)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/kang-ye-jin?pet-id=653919349032254330" width="1000" height="100"/>
+</a>
