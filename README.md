@@ -32,8 +32,6 @@
 
 - 외국인 대상 한국어 학습 및 모임 서비스, 코틀린 마이그레이션 / 24.09.23 - 24.11.05
 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://camo.githubusercontent.com/b689e3e111128b97869c862b7c0a20ed2397b8229451cb3a5d2edd070f1afed3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6177732d3233324633452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e7765627365727669636573266c6f676f436f6c6f723d7768697465)
-
 - 데이트코스 공유 어플리케이션 / 24.11.15 - 24.12.10
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-ye-jin&show_icons=true&title_color=FF6675&icon_color=FF6675&text_color=FFd2d7&bg_color=ffffff)
