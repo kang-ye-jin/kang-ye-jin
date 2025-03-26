@@ -3,8 +3,10 @@
 </p>
 
 ## <img src="https://github.com/user-attachments/assets/f3bef74f-150e-43e1-a30a-c3f54f5a2bd8" alt="project" width="35" height="35"/> About Me
-- 가천대학교 컴퓨터공학과 재학 
+- 가천대학교 컴퓨터공학과 졸업
 - 카카오엔터프라이즈 SW아카데미 3기
+- dktechin SW전문인재양성 사업 기업주도 집중 프로젝트 교육
+- 프로그래머스 클라우드 기반 백엔드 엔지니어링 1기
 
 ## <img src="https://github.com/user-attachments/assets/7bcf1319-2c96-41b0-b337-db19c45bbbdf" alt="project" width="20" height="20" style="vertical-align: middle;"/> Projects
 
@@ -28,7 +30,11 @@
 #### Backend
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://camo.githubusercontent.com/b689e3e111128b97869c862b7c0a20ed2397b8229451cb3a5d2edd070f1afed3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6177732d3233324633452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e7765627365727669636573266c6f676f436f6c6f723d7768697465)
 
-- 외국인 대상 한국어 학습 및 모임 서비스, 코틀린 마이그레이션 / 23.09.23 - 23.11.05
+- 외국인 대상 한국어 학습 및 모임 서비스, 코틀린 마이그레이션 / 24.09.23 - 24.11.05
+
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://camo.githubusercontent.com/b689e3e111128b97869c862b7c0a20ed2397b8229451cb3a5d2edd070f1afed3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6177732d3233324633452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e7765627365727669636573266c6f676f436f6c6f723d7768697465)
+
+- 데이트코스 공유 어플리케이션 / 24.11.15 - 24.12.10
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-ye-jin&show_icons=true&title_color=FF6675&icon_color=FF6675&text_color=FFd2d7&bg_color=ffffff)
 <a href="https://github.com/devxb/gitanimals">
